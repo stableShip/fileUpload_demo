@@ -1,11 +1,11 @@
 {
-  "name": "staticHelper",
+  "name": "fileUpload",
   "version": "0.0.0",
-  "description": "staticHelper",
+  "description": "fileUpload",
   "main": "app.js",
   "author": {
-    "name": "Administrator",
-    "email": ""
+    "name": "JIE",
+    "email": "296888680@qq.com"
   },
   "dependencies": {
     "bluebird": "^2.9.27",
